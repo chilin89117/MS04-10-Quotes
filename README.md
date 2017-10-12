@@ -1,21 +1,14 @@
-# 06-quotes (No Laravel)
+# MS04-06 Components Project with Quotes (No Laravel)
+## `Header.vue`
+* A component used in `App.vue` with progress bar showing number of quotes from 0 to maximum of 10
 
-> MS04-06 Quotes project 
+## `NewQuote.vue`
+* A component used in `App.vue` with a form to create new quote
 
-## Build Setup
+## `Quote.vue`
+* A component used in `QuoteGrid.vue` to display a single quote
 
-``` bash
-# install dependencies
-npm install
+## `QuoteGrid.vue`
+* A component used in `App.vue` displaying all quotes using `Quote.vue` 
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-### Project to add and display up to 12 quotes using components.
+#### End of Section 10, lecture 142.
