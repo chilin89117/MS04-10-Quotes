@@ -1,4 +1,6 @@
-# MS04-06 Components Project with Quotes (No Laravel)
+# MS04-10-Quotes
+## Components project using quotes
+
 ## `Header.vue`
 * A component used in `App.vue` with progress bar showing number of quotes from 0 to maximum of 10
 
