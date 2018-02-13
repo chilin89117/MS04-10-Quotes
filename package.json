@@ -1,5 +1,5 @@
 {
-  "name": "MS04-10-Quotes",
+  "name": "ms04-10-quotes",
   "description": "MS04-10 Quotes project",
   "version": "1.0.0",
   "author": "Chi Lin <chilin89117@gmail.com>",
@@ -18,9 +18,9 @@
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
     "file-loader": "^1.1.4",
-    "vue-loader": "^13.0.5",
+    "vue-loader": "^13.7.1",
     "vue-template-compiler": "^2.4.4",
-    "webpack": "^3.6.0",
+    "webpack": "^3.11.0",
     "webpack-dev-server": "^2.9.1"
   }
 }
